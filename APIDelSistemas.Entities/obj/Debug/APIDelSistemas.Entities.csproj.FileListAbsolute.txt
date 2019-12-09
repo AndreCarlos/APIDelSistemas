@@ -1,0 +1,20 @@
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\APIDelSistemas.Entities.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\APIDelSistemas.Entities.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Bson.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Driver.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Bson.xml
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Driver.xml
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\obj\Debug\APIDelSistemas.Entities.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\obj\Debug\APIDelSistemas.Entities.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Entities\obj\Debug\APIDelSistemas.Entities.csprojResolveAssemblyReference.cache
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\APIDelSistemas.Entities.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\APIDelSistemas.Entities.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Bson.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Driver.Core.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Driver.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Bson.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\bin\Debug\MongoDB.Driver.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\obj\Debug\APIDelSistemas.Entities.csprojResolveAssemblyReference.cache
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\obj\Debug\APIDelSistemas.Entities.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Entities\obj\Debug\APIDelSistemas.Entities.pdb

@@ -1,0 +1,32 @@
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemasTest.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemasTest.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\obj\Debug\APIDelSistemasTest.csprojResolveAssemblyReference.cache
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\obj\Debug\APIDelSistemasTest.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\obj\Debug\APIDelSistemasTest.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.DataAccess.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Driver.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Bson.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.DataAccess.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Driver.xml
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Bson.xml
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemasTest.dll.config
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.Entities.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.Entities.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemasTest.dll.config
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemasTest.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemasTest.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.DataAccess.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.Entities.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Bson.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Driver.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Driver.Core.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.DataAccess.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\APIDelSistemas.Entities.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Bson.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\bin\Debug\MongoDB.Driver.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\obj\Debug\APIDelSistemasTest.csprojResolveAssemblyReference.cache
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\obj\Debug\APIDelSistemasTest.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemasTest\obj\Debug\APIDelSistemasTest.pdb

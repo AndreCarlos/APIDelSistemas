@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDelSistemas", "APIDelSistemas\APIDelSistemas.csproj", "{CEAF9E88-DCE9-4C20-B10C-33AA4059BBF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{40336452-9A15-465A-B8D6-21C16C8C784B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{00483F98-50A5-448E-B576-681874594CA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{02F94CE9-E041-414E-A72F-00C3FD056A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDelSistemas.Service", "APIDelSistemas.Service\APIDelSistemas.Service.csproj", "{C02035DB-F844-4C60-BFA0-46BFC4D2E2BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDelSistemas.Entities", "APIDelSistemas.Entities\APIDelSistemas.Entities.csproj", "{3EB07AEF-34D0-484A-AB2D-C204037EAEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDelSistemas.DataAccess", "APIDelSistemas.DataAccess\APIDelSistemas.DataAccess.csproj", "{785CA292-B38D-45CB-BE22-EEE696969122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDelSistemasTest", "APIDelSistemasTest\APIDelSistemasTest.csproj", "{5D17B2F6-74E6-4947-A565-663E460C3D0D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://apidelsistemas.visualstudio.com/
+		SccProjectUniqueName0 = APIDelSistemas\\APIDelSistemas.csproj
+		SccProjectName0 = APIDelSistemas
+		SccAuxPath0 = https://apidelsistemas.visualstudio.com
+		SccLocalPath0 = APIDelSistemas
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = APIDelSistemas.Service\\APIDelSistemas.Service.csproj
+		SccProjectTopLevelParentUniqueName1 = APIDelSistemas.sln
+		SccProjectName1 = APIDelSistemas.Service
+		SccAuxPath1 = https://apidelsistemas.visualstudio.com
+		SccLocalPath1 = APIDelSistemas.Service
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = APIDelSistemas.Entities\\APIDelSistemas.Entities.csproj
+		SccProjectTopLevelParentUniqueName2 = APIDelSistemas.sln
+		SccProjectName2 = APIDelSistemas.Entities
+		SccAuxPath2 = https://apidelsistemas.visualstudio.com
+		SccLocalPath2 = APIDelSistemas.Entities
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = APIDelSistemas.DataAccess\\APIDelSistemas.DataAccess.csproj
+		SccProjectTopLevelParentUniqueName3 = APIDelSistemas.sln
+		SccProjectName3 = APIDelSistemas.DataAccess
+		SccAuxPath3 = https://apidelsistemas.visualstudio.com
+		SccLocalPath3 = APIDelSistemas.DataAccess
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName4 = APIDelSistemasTest\\APIDelSistemasTest.csproj
+		SccProjectName4 = APIDelSistemasTest
+		SccAuxPath4 = https://apidelsistemas.visualstudio.com
+		SccLocalPath4 = APIDelSistemasTest
+		SccProvider4 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAF9E88-DCE9-4C20-B10C-33AA4059BBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAF9E88-DCE9-4C20-B10C-33AA4059BBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAF9E88-DCE9-4C20-B10C-33AA4059BBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAF9E88-DCE9-4C20-B10C-33AA4059BBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02035DB-F844-4C60-BFA0-46BFC4D2E2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02035DB-F844-4C60-BFA0-46BFC4D2E2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02035DB-F844-4C60-BFA0-46BFC4D2E2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02035DB-F844-4C60-BFA0-46BFC4D2E2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB07AEF-34D0-484A-AB2D-C204037EAEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB07AEF-34D0-484A-AB2D-C204037EAEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB07AEF-34D0-484A-AB2D-C204037EAEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB07AEF-34D0-484A-AB2D-C204037EAEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785CA292-B38D-45CB-BE22-EEE696969122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785CA292-B38D-45CB-BE22-EEE696969122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785CA292-B38D-45CB-BE22-EEE696969122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785CA292-B38D-45CB-BE22-EEE696969122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D17B2F6-74E6-4947-A565-663E460C3D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D17B2F6-74E6-4947-A565-663E460C3D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D17B2F6-74E6-4947-A565-663E460C3D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D17B2F6-74E6-4947-A565-663E460C3D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C02035DB-F844-4C60-BFA0-46BFC4D2E2BF} = {40336452-9A15-465A-B8D6-21C16C8C784B}
+		{3EB07AEF-34D0-484A-AB2D-C204037EAEB8} = {00483F98-50A5-448E-B576-681874594CA0}
+		{785CA292-B38D-45CB-BE22-EEE696969122} = {02F94CE9-E041-414E-A72F-00C3FD056A23}
+	EndGlobalSection
+EndGlobal

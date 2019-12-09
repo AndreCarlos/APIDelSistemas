@@ -1,0 +1,10 @@
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Service\bin\Debug\APIDelSistemas.Service.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Service\bin\Debug\APIDelSistemas.Service.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Service\obj\Debug\APIDelSistemas.Service.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Service\obj\Debug\APIDelSistemas.Service.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.Service\obj\Debug\APIDelSistemas.Service.csprojResolveAssemblyReference.cache
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Service\bin\Debug\APIDelSistemas.Service.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Service\bin\Debug\APIDelSistemas.Service.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Service\obj\Debug\APIDelSistemas.Service.csprojResolveAssemblyReference.cache
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Service\obj\Debug\APIDelSistemas.Service.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.Service\obj\Debug\APIDelSistemas.Service.pdb

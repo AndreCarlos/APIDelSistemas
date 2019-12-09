@@ -1,0 +1,73 @@
+
+            var filter_id = Builders<Usuario>.Filter.Eq("id", _id);
+            var entity = database.GetCollection<Usuario>(collectionName).Find(filter_id).FirstOrDefault();
+            return entity;
+
+
+----------------------------------------------
+
+                //var usuario = database.GetCollection<Usuario>(collectionName);
+               
+                //Update<Usuario>.Set(user => user.senha, "999");
+                //Update.Set("Login", 1);        
+
+                //var filter = new BsonDocument();
+                //var update = new BsonDocument("$set", new BsonDocument("x", 1));
+                //var result = usuario.UpdateOneAsync(filter, update);
+
+-------------------------------------------------
+
+
+                //var filter = Builders<Usuario>.Filter.Where(user => user._Id == _id);
+                //var t = usuarioCollection.ReplaceOneAsync(filter, usuario);
+
+                //var result = usuarioCollection.ReplaceOneAsync(user => user._Id == _id, usuario);
+
+-----------------------------------------------
+
+
+ //var existeUsuario = FindRole(item._Id);
+
+                //var usuario = new Usuario() {
+                //    _Id = item._Id,
+                //    login = item.login,
+                //    senha = item.senha,
+                //    cpf = item.cpf
+                    //nome = item.nome,
+                    //data_nascimento = item.data_nascimento,
+                    //sexo = item.sexo,
+                    //cidade = item.cidade,
+                    //estado = item.estado,
+                    //pais = item.pais,
+                    //email = item.email,
+                    //tipo = item.tipo
+                //};
+
+                //var update = new UpdateDefinitionBuilder<Usuario>().Set(x => x.login, "Xota");
+                //var result = usuarioCollection.UpdateOneAsync(x => x._Id == _id, update);
+
+                //var filter = Builders<Usuario>.Filter.Eq(s => s._Id, _id);
+                //var result = usuarioCollection.ReplaceOneAsync(filter, usuario);
+
+                //var query3 = Query<Usuario>.EQ(e => e._Id, (ObjectId.Parse("57267f8eb1c66312d874f2bc")));  
+                //var update = Update<Usuario>.Set(e => e.senha, "avg");
+                //usuarioCollection.Update(query3, update, multi: false); 
+
+
+-----------------------------------------------
+
+
+ //var usuario = new Usuario();
+
+            //usuario._Id = ObjectId.Parse("57267f8eb1c66312d874f2bc");
+            //usuario.login = "Xota";
+            //usuario.senha = "avg";
+            //usuario.cpf = "32908410101010";
+            //usuario.nome = "Luxemburgo da Silva Sauro";
+            //usuario.data_nascimento = DateTime.Now;
+            //usuario.sexo = "M";
+            //usuario.cidade = "Rio de Janeiro";
+            //usuario.estado = "RJ";
+            //usuario.pais = "Brasil";
+            //usuario.email = "luxa@globo.com";
+            //usuario.tipo = "cliente";

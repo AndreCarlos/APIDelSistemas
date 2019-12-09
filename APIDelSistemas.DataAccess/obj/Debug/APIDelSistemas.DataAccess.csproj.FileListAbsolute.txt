@@ -1,0 +1,28 @@
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.DataAccess.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.DataAccess.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\obj\Debug\APIDelSistemas.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\obj\Debug\APIDelSistemas.DataAccess.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\obj\Debug\APIDelSistemas.DataAccess.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.Entities.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.Entities.pdb
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Bson.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Bson.xml
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.xml
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Andre Carlos\Desktop\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.DataAccess.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.DataAccess.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.Entities.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Bson.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.Core.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\APIDelSistemas.Entities.pdb
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Bson.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\obj\Debug\APIDelSistemas.DataAccess.csprojResolveAssemblyReference.cache
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\obj\Debug\APIDelSistemas.DataAccess.dll
+C:\devESTUDOS\APIDelSistemas\APIDelSistemas.DataAccess\obj\Debug\APIDelSistemas.DataAccess.pdb
